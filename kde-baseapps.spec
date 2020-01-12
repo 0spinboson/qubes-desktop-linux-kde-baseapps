@@ -11,8 +11,8 @@
 Name:    kde-baseapps
 Summary: KDE Core Applications 
 Epoch:   2000
-Version: 16.08.3
-Release: 2%{?dist}
+Version: 16.12.2
+Release: 3%{?dist}
 
 License: GPLv2 and GFDL
 URL:     https://quickgit.kde.org/?p=%{name}.git
